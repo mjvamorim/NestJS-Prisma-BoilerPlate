@@ -1,4 +1,8 @@
 ## Blog-Backend-REST-API-NestJS-Prisma 
+Tutorial from: https://www.prisma.io/blog/nestjs-prisma-validation-7D056s1kOla1
+
+
+
 
 A simple backend REST API for a blog built using NestJS, Prisma, PostgreSQL and Swagger. 
 
